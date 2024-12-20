@@ -1,6 +1,6 @@
 <h1>Hi, I'm Aaron!</h1>
 <h2><b>Cybersecurity student, programmer</b></h2>
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/artalalla">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
