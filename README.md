@@ -7,5 +7,5 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Kali Linux</b>
-  - [Phishing Simulation](https://github.com/artalalla/Phishing-Simulation)
+  - </b>[Phishing Simulation](https://github.com/artalalla/Phishing-Simulation)
+  - </b>[vsftpd Exploitation](https://github.com/artalalla/vsftpd-Exploitation)
