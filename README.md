@@ -7,5 +7,6 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - </b>[Phishing Simulation](https://github.com/artalalla/Phishing-Simulation)
+  - </b>[SOC Lab](https://github.com/artalalla/SOC-lab)
   - </b>[vsftpd Exploitation](https://github.com/artalalla/vsftpd-Exploitation)
+  - </b>[Phishing Simulation](https://github.com/artalalla/Phishing-Simulation)
